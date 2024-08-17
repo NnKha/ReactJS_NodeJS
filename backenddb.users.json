@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "66be3c9cd84616131983b098"
+  },
+  "phone": "396415380",
+  "fullName": "Nguyễn Kha",
+  "email": "nhatkha2018@gmail.com",
+  "password": "$2a$10$bu9SkTSpMOccW.ioRWs1MuPF5qaU6TuRF/WJm4dfzO2Nz1rcebGf2",
+  "role": 0,
+  "address": "2351g tổ 8 ấp 6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66be3cd8d84616131983b09c"
+  },
+  "phone": "0396415380",
+  "fullName": "Nguyễn Kha",
+  "email": "nhatkha2018@gmail.com",
+  "password": "$2a$10$/3pE1i/mMGZWyMTTTfDKVON4gelXfOSfBCbsGvISuIoMT8KTKjPGG",
+  "role": 0,
+  "address": "2351g tổ 8 ấp 6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66be3de1d84616131983b0a0"
+  },
+  "phone": "039641538000",
+  "fullName": "Nguyễn Kha",
+  "email": "nhatkha2018@gmail.com",
+  "password": "$2a$10$jHGVrTl.gVX2c7IOjBfCDux3FL1u7Xx9lZpKa9q0S.JU4koA7ou9a",
+  "role": 0,
+  "address": "2351g tổ 8 ấp 6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66be3dfcd84616131983b0a3"
+  },
+  "phone": "03964153800",
+  "fullName": "Nguyễn Kha",
+  "email": "khadz2000xmen@gmail.com",
+  "password": "$2a$10$/A0NcB41UgR7Pi1RjU7j2OIeOVNW7QcZqAgFrQA6loNNJAub2Yj06",
+  "role": 0,
+  "address": "2351g tổ 8 ấp 6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66be414cd84616131983b0f4"
+  },
+  "phone": "0396415381",
+  "fullName": "Nguyễn Kha",
+  "email": "nhatkha2018@gmail.com",
+  "password": "$2a$10$cbpF4K.7nOiWOkpUG79U4uy9Yv9MiFWULb9.fTWFX4QLAMGLbW7Bq",
+  "role": 0,
+  "address": "2351g tổ 8 ấp 6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66be4174d84616131983b0f7"
+  },
+  "phone": "0396415384",
+  "fullName": "Nguyễn Kha",
+  "email": "nhatkha2018@gmail.com",
+  "password": "$2a$10$wAZssDGe/DFurpMa2rQhSOciMjjrjArj0PQQmSHj3.DvVXsbIe3eO",
+  "role": 0,
+  "address": "2351g tổ 8 ấp 6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66be41a4d84616131983b0fa"
+  },
+  "phone": "0396415386",
+  "fullName": "Nguyễn Kha",
+  "email": "nhatkha2018@gmail.com",
+  "password": "$2a$10$m/RoPkOZpZ9c8rRnpb21U.DTiJz5pUU1TtvPQ7/SFxaVgyV2Am5GC",
+  "role": 0,
+  "address": "2351g tổ 8 ấp 6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66be524ed84616131983b0ff"
+  },
+  "phone": "0396415388",
+  "fullName": "Nguyễn Kha",
+  "email": "nhatkha2018@gmail.com",
+  "password": "$2a$10$phPhHBo.E4XtSbPyLFgzHuuX7C02Acp3sp5hevD/MImfEQdIPdYJ6",
+  "role": 0,
+  "address": "2351g tổ 8 ấp 6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66be5fbdd0cbee9244d9e091"
+  },
+  "phone": "0396415390",
+  "fullName": "Nguyễn Kha",
+  "email": "nhatkha2018@gmail.com",
+  "password": "$2a$10$9xHzNGAk75vUyfzL82dC2uCQvqLCXsar9J5L/JBd/4rSC3D5YWOjK",
+  "role": 0,
+  "address": "2351g tổ 8 ấp 6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66be60d4a34162f320bf6968"
+  },
+  "phone": "0396415333",
+  "fullName": "Nguyễn Kha",
+  "email": "nhatkha2018@gmail.com",
+  "password": "$2a$10$RS.XzV07jmLVoxnR6VT5Z.KR016842bpbAa2PaIC1AItBHv/l4Gt2",
+  "role": 0,
+  "address": "2351g tổ 8 ấp 6",
+  "__v": 0
+}]

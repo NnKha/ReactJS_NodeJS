@@ -1,0 +1,181 @@
+/* ============ Account  ============*/
+
+/* Common  */
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#form-login input[type="text"],
+#form-login input[type="password"],
+#form-login input[type="email"],
+#form-login input[type="number"] {
+  width: 100%;
+  box-sizing: border-box;
+  height: 39px;
+  margin: 4px 0;
+  padding: 0 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+/* Ẩn mũi tên lên xuống trong Chrome, Safari, Edge, và Opera */
+#form-login input[type="number"]::-webkit-outer-spin-button,
+#form-login input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Ẩn mũi tên lên xuống trong Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.form__account {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 30px 0;
+  height: 630px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 1px 2px 15px 2px rgba(0, 0, 0, 0.3);
+}
+
+.sidebar__user,
+.account__inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  height: 100%;
+}
+
+.btn.user__cta {
+  margin-top: 20px;
+  border: 2px solid white;
+  padding: 14px 37px;
+  border-radius: 10px;
+  color: black;
+  background-color: #337ab7;
+}
+
+.btn.user__cta:hover {
+  color: white;
+  border: 2px solid black;
+  background-color: red;
+}
+
+/* ============ Login  ============*/
+
+.heading-title {
+  font-size: 3.6rem;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+.form__group {
+  text-align: left;
+  margin: 0 10px;
+}
+
+.account__inner p.text-danger {
+  font-weight: 400;
+  margin-bottom: 20px;
+  font-size: 1.3rem;
+}
+
+.account__inner--title > p.text-danger {
+  font-weight: 600;
+  font-size: 1.6rem;
+  /* display: none; */
+}
+
+.control__reset {
+  padding-left: 90px;
+}
+
+.account__inner {
+  flex-basis: 65%;
+}
+
+.sidebar__user {
+  flex-basis: 35%;
+  background: #025959;
+  color: white;
+  border-radius: 0 10px 10px 0;
+}
+
+.sidebar__user--heading {
+  font-size: 3rem;
+  color: wheat;
+}
+
+.sidebar__user--desc {
+  width: 350px;
+  line-height: 1.5;
+  padding: 30px 0;
+  color: white;
+}
+
+/* ============ Register  ============*/
+
+.row-form__group {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.row-form__group .form__group {
+  width: 50%;
+  height: 78px;
+  text-align: left;
+}
+
+/* ============ Update Account  ============*/
+
+.form__group .image__user {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+#form-login input[type="file"] {
+  width: 100%;
+}
+
+.avatar__user {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background: white;
+  overflow: hidden;
+}
+
+.avatar__user img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.subtitle__user {
+  margin-top: 20px;
+  font-size: 2.8rem;
+  color: white;
+}
+/* ============ Reset password Account  ============*/
+.newPassword .form__group,
+.resetPassword .form__group {
+  width: 340px;
+}
+
+.resetOkPassword .heading-title {
+  width: 410px;
+  line-height: 1.7;
+  color: orange;
+}
+
+/* ============ Edit Account  ============*/
+.editPassword .form__group {
+  margin: 20px;
+}

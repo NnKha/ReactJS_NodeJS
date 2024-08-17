@@ -1,0 +1,600 @@
+[{
+  "_id": {
+    "$oid": "65ebb8761a1a72ec965c939c"
+  },
+  "categoryId": {
+    "$oid": "65ef17cecce6ab14801fd9b7"
+  },
+  "name": "IP15 Pro Max",
+  "price_new": 29990000,
+  "price_old": 34990000,
+  "quantity": 220,
+  "description": "Sở hữu thiết kế thời thượng với mặt lưng chuyển màu bắt mắt, cấu hình phần cứng tốt cho hiệu năng ổn định, pin lớn cho thời lượng sử dụng cả ngày dài và hệ thống camera chất lượng, OPPO A18 sẽ mang tới cho bạn trải nghiệm tuyệt vời trong việc xử lý công việc, học tập cũng như giải trí hàng ngày.",
+  "product_image": "ip15.png",
+  "updatedAt": {
+    "$date": "2024-07-03T16:43:10.059Z"
+  },
+  "role": 1,
+  "sold": 100
+},
+{
+  "_id": {
+    "$oid": "65ef199ecce6ab14801fd9c9"
+  },
+  "categoryId": {
+    "$oid": "65ef17cecce6ab14801fd9b7"
+  },
+  "name": "iPhone 14 Pro Max 128GB",
+  "price_new": 27390000,
+  "price_old": 29890000,
+  "quantity": 100,
+  "description": "iPhone 14 Pro Max đem đến những trải nghiệm không thể tìm thấy trên mọi thế hệ iPhone trước đó với màu Tím Deep Purple sang trọng, camera 48MP lần đầu xuất hiện, chip A16 Bionic và màn hình “viên thuốc” Dynamic Island linh hoạt, nịnh mắt.",
+  "product_image": "iphone-14-pro-max-purple-650x650.png",
+  "updatedAt": {
+    "$date": "2024-07-03T16:43:28.224Z"
+  },
+  "role": 1,
+  "sold": 99
+},
+{
+  "_id": {
+    "$oid": "65ef1ac8cce6ab14801fd9cc"
+  },
+  "categoryId": {
+    "$oid": "65ef17fccce6ab14801fd9bb"
+  },
+  "name": "MacBook Air 13inch M3",
+  "price_new": 27490000,
+  "price_old": 30690000,
+  "quantity": 100,
+  "description": "Khám phá sức mạnh tối ưu từ Mac M3, chiếc laptop có cấu hình cực mạnh với bộ vi xử lý Intel Core i5 1235U thế hệ mới và dung lượng RAM lên tới 16GB. Bạn có thể thoải mái xử lý nhiều tác vụ, nâng cao năng suất trong công việc mà không gặp bất kỳ trở ngại nào.",
+  "product_image": "macbook-air-15-inch-m3-2024-xam-650x650.png",
+  "updatedAt": {
+    "$date": "2024-07-03T10:42:47.677Z"
+  },
+  "sold": 123
+},
+{
+  "_id": {
+    "$oid": "65ef1b66cce6ab14801fd9cd"
+  },
+  "categoryId": {
+    "$oid": "65ef17fccce6ab14801fd9bb"
+  },
+  "name": "MacBook Air 13inch M1",
+  "price_new": 27990000,
+  "price_old": 29990000,
+  "quantity": 100,
+  "description": "Khám phá sức mạnh tối ưu từ Mac M1, chiếc laptop có cấu hình cực mạnh với bộ vi xử lý Intel Core i5 1235U thế hệ mới và dung lượng RAM lên tới 16GB. Bạn có thể thoải mái xử lý nhiều tác vụ, nâng cao năng suất trong công việc mà không gặp bất kỳ trở ngại nào.",
+  "product_image": "imac-m3-green-thumb-650x650.png",
+  "updatedAt": {
+    "$date": "2024-07-03T10:37:13.084Z"
+  },
+  "sold": 55
+},
+{
+  "_id": {
+    "$oid": "65f40e2cdb3f6e99065b15c5"
+  },
+  "categoryId": {
+    "$oid": "65ef17fccce6ab14801fd9bb"
+  },
+  "name": "Apple Macbook Air M2 2022 8GB",
+  "price_new": 24990000,
+  "price_old": 28990000,
+  "quantity": 10,
+  "description": "Macbook Air M2 2022 với thiết kế sang trọng, vẻ ngoài siêu mỏng đầy lịch lãm. Mẫu Macbook Air mới với những nâng cấp về thiết kế và cấu hình cùng giá bán phải chăng, đây sẽ là một thiết bị lý tưởng cho công việc và giải trí.",
+  "product_image": "imac-24-inch-m3-16gb-512gb-thumb-bac-650x650.png",
+  "updatedAt": {
+    "$date": "2024-07-03T10:43:06.872Z"
+  },
+  "sold": 101
+},
+{
+  "_id": {
+    "$oid": "65f41009db3f6e99065b15cc"
+  },
+  "categoryId": {
+    "$oid": "65ef1840cce6ab14801fd9bc"
+  },
+  "name": "iPad Pro M4 11 inch WiFi",
+  "price_new": 22990000,
+  "price_old": 24990000,
+  "quantity": 10,
+  "description": "Macbook Air M2 2022 với thiết kế sang trọng, vẻ ngoài siêu mỏng đầy lịch lãm. Mẫu Macbook Air mới với những nâng cấp về thiết kế và cấu hình cùng giá bán phải chăng, đây sẽ là một thiết bị lý tưởng cho công việc và giải trí.",
+  "product_image": "ipad-air-5-wifi-startlight-1-650x650.png",
+  "updatedAt": {
+    "$date": "2024-07-03T10:41:41.769Z"
+  },
+  "sold": 10
+},
+{
+  "_id": {
+    "$oid": "65f4106ddb3f6e99065b15cd"
+  },
+  "categoryId": {
+    "$oid": "65ef1840cce6ab14801fd9bc"
+  },
+  "name": "iPad 9 WiFi",
+  "price_new": 15000000,
+  "price_old": 18900000,
+  "quantity": 10,
+  "description": "Macbook Air M2 2022 với thiết kế sang trọng, vẻ ngoài siêu mỏng đầy lịch lãm. Mẫu Macbook Air mới với những nâng cấp về thiết kế và cấu hình cùng giá bán phải chăng, đây sẽ là một thiết bị lý tưởng cho công việc và giải trí.",
+  "product_image": "ipad-pro-m2-129-inch-sliver-1-650x650.png",
+  "updatedAt": {
+    "$date": "2024-07-03T10:41:53.888Z"
+  },
+  "sold": 12
+},
+{
+  "_id": {
+    "$oid": "65f4112cdb3f6e99065b15d0"
+  },
+  "categoryId": {
+    "$oid": "65ef186ecce6ab14801fd9bd"
+  },
+  "name": "Apple Watch Series 9 GPS",
+  "price_new": 7490000,
+  "price_old": 9990000,
+  "quantity": 10,
+  "description": "Macbook Air M2 2022 với thiết kế sang trọng, vẻ ngoài siêu mỏng đầy lịch lãm. Mẫu Macbook Air mới với những nâng cấp về thiết kế và cấu hình cùng giá bán phải chăng, đây sẽ là một thiết bị lý tưởng cho công việc và giải trí.",
+  "product_image": "apple-watch-s9-lte-vien-thep-khong-gi-day-thep-1-1-650x650.png",
+  "updatedAt": {
+    "$date": "2024-07-03T16:59:10.359Z"
+  },
+  "sold": 333
+},
+{
+  "_id": {
+    "$oid": "65f411b1db3f6e99065b15d1"
+  },
+  "categoryId": {
+    "$oid": "65ef186ecce6ab14801fd9bd"
+  },
+  "name": "Apple Watch SE 2023 GPS",
+  "price_new": 4990000,
+  "price_old": 5490000,
+  "quantity": 10,
+  "description": "Macbook Air M2 2022 với thiết kế sang trọng, vẻ ngoài siêu mỏng đầy lịch lãm. Mẫu Macbook Air mới với những nâng cấp về thiết kế và cấu hình cùng giá bán phải chăng, đây sẽ là một thiết bị lý tưởng cho công việc và giải trí.",
+  "product_image": "apple-watch-se-2023-vien-nhom-day-vai-xanh-nhat-tb-1-650x650.png",
+  "updatedAt": {
+    "$date": "2024-07-03T16:59:20.792Z"
+  },
+  "sold": 200
+},
+{
+  "_id": {
+    "$oid": "65f4135bdb3f6e99065b15d2"
+  },
+  "categoryId": {
+    "$oid": "65f402eadb3f6e99065b15bf"
+  },
+  "name": "Loa Bluetooth JBL Go 3",
+  "price_new": 4190000,
+  "price_old": 6990000,
+  "quantity": 20,
+  "description": "Macbook Air M2 2022 với thiết kế sang trọng, vẻ ngoài siêu mỏng đầy lịch lãm. Mẫu Macbook Air mới với những nâng cấp về thiết kế và cấu hình cùng giá bán phải chăng, đây sẽ là một thiết bị lý tưởng cho công việc và giải trí.",
+  "product_image": "loa-bluetooth-alpha-works-aw-ride-040724-100828-650x650.png",
+  "updatedAt": {
+    "$date": "2024-07-03T16:59:33.191Z"
+  },
+  "sold": 66
+},
+{
+  "_id": {
+    "$oid": "65f4141cdb3f6e99065b15d3"
+  },
+  "categoryId": {
+    "$oid": "65f402eadb3f6e99065b15bf"
+  },
+  "name": "AirPods 2 sạc Lightning",
+  "price_new": 34900000,
+  "price_old": 4990000,
+  "quantity": 20,
+  "description": "Macbook Air M2 2022 với thiết kế sang trọng, vẻ ngoài siêu mỏng đầy lịch lãm. Mẫu Macbook Air mới với những nâng cấp về thiết kế và cấu hình cùng giá bán phải chăng, đây sẽ là một thiết bị lý tưởng cho công việc và giải trí.",
+  "product_image": "tai-nghe-bluetooth-airpods-2-apple-mv7n2-trang-thumb-110-650x650.png",
+  "updatedAt": {
+    "$date": "2024-07-03T16:59:49.882Z"
+  },
+  "sold": 85
+},
+{
+  "_id": {
+    "$oid": "65f8eefeefcfa6b66db8cb59"
+  },
+  "name": "Adapter sạc Apple USB-C 20W",
+  "price_new": 590000,
+  "price_old": 990000,
+  "quantity": 100,
+  "description": "Sở hữu thiết kế thời thượng với mặt lưng chuyển màu bắt mắt, cấu hình phần cứng tốt cho hiệu năng ổn định, pin lớn cho thời lượng sử dụng cả ngày dài và hệ thống camera chất lượng, OPPO A18 sẽ mang tới cho bạn trải nghiệm tuyệt vời trong việc xử lý công việc, học tập cũng như giải trí hàng ngày.12",
+  "product_image": "adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-101021-023343-650x650.png",
+  "categoryId": {
+    "$oid": "65f4032edb3f6e99065b15c0"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2024-07-03T16:43:46.164Z"
+  },
+  "sold": 77
+},
+{
+  "_id": {
+    "$oid": "65fce5e43cf7e1bf67cabcf7"
+  },
+  "name": "Cáp sạc USB-C - Lightning 1m",
+  "price_new": 290000,
+  "price_old": 390000,
+  "quantity": 100,
+  "description": "1234",
+  "product_image": "cap-type-c-lightning-1m-apple-mm0a3-trang-thumb-650x650.png",
+  "categoryId": {
+    "$oid": "65f4032edb3f6e99065b15c0"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2024-07-07T16:00:55.795Z"
+  },
+  "sold": 78
+},
+{
+  "_id": {
+    "$oid": "65fd3585c3042cbf81b41522"
+  },
+  "name": "Magic Keyboard",
+  "price_new": 4990000,
+  "price_old": 5990000,
+  "quantity": 20,
+  "description": "Sở hữu thiết kế thời thượng với mặt lưng chuyển màu bắt mắt, cấu hình phần cứng tốt cho hiệu năng ổn định, pin lớn cho thời lượng sử dụng cả ngày dài và hệ thống camera chất lượng, OPPO A18 sẽ mang tới cho bạn trải nghiệm tuyệt vời trong việc xử lý công việc, học tập cũng như giải trí hàng ngày.111",
+  "product_image": "magic-keyboard-thumb-650x650.png",
+  "categoryId": {
+    "$oid": "65f4032edb3f6e99065b15c0"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2024-07-03T16:44:14.574Z"
+  },
+  "sold": 25
+},
+{
+  "_id": {
+    "$oid": "65fdbcefa24f6241535caa9e"
+  },
+  "name": "AirPods Max",
+  "price_new": 2290000,
+  "price_old": 4990000,
+  "quantity": 10,
+  "description": "Với Xiaomi Mi AP 4 Lite, ai trong số chúng ta cũng có thể tận hưởng bầu không khí hít thở trong lành ở không gian sống. Sản phẩm ghi nhận khả năng lọc tới 99.97% các hạt kích cỡ 0,3 μm, ghi nhận vùng phủ tới 25-43 mét vuông, diện tích gọn gàng nhỏ hơn một tờ giấy A4 và vận hành êm ái không phát ra nhiều tiếng ồn.",
+  "product_image": "bluetooth-airpods-max-apple-bac-tn-650x650.png",
+  "categoryId": {
+    "$oid": "65f402eadb3f6e99065b15bf"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2024-07-03T17:01:56.532Z"
+  },
+  "sold": 45
+},
+{
+  "_id": {
+    "$oid": "65fdbd3da24f6241535caab8"
+  },
+  "name": "Loa Blutetooth JBL",
+  "price_new": 1990000,
+  "price_old": 3100000,
+  "quantity": 12,
+  "description": "Chìm đắm trong không gian hiển thị tuyệt vời của màn hình cong Samsung LS24c360EAEXXV, bạn sẽ thỏa thích tận hưởng những khung hình trọn vẹn và sống động. Góc nhìn tràn về hai phía như bao bọc toàn bộ tầm nhìn của bạn, kết hợp với loạt công nghệ hiện đại như tần số quét 75Hz, Eye Saver, Eco Saving sẽ đem lại trải nghiệm trọn vẹn mọi khía cạnh.",
+  "product_image": "loa-bluetooth-jbl-clip-5-thumb-650x650.png",
+  "categoryId": {
+    "$oid": "65f402eadb3f6e99065b15bf"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2024-07-03T16:57:23.777Z"
+  },
+  "sold": 1
+},
+{
+  "_id": {
+    "$oid": "65fe2757e46da72e4e616dbe"
+  },
+  "name": "Tai nghe Bluetooth True Wireless",
+  "price_new": 899000,
+  "price_old": 3000000,
+  "quantity": 11,
+  "description": "Quạt đứng Mi Smart Standing Fan 2 Lite sẽ đem làn gió mát lành tới cho gia đình bạn. Sử dụng hệ thống 7 cánh quạt, sản phẩm dễ dàng lùa gió lan tỏa khắp gian phòng nhờ động cơ mạnh mẽ và tiết kiệm điện. Các công nghệ hiện đại mà Xiaomi đem đến như chế độ ngủ, ba tốc độ quạt và trợ lý ảo sẽ cho bạn trải nghiệm chưa từng thấy ở các mẫu quạt máy khác.",
+  "product_image": "tai-nghe-bluetooth-chup-tai-marshall-major-v-thumb-650x650.png",
+  "categoryId": {
+    "$oid": "65f402eadb3f6e99065b15bf"
+  },
+  "updatedAt": {
+    "$date": "2024-07-03T17:02:25.506Z"
+  },
+  "sold": 45
+},
+{
+  "_id": {
+    "$oid": "65fe2837e46da72e4e616ddf"
+  },
+  "name": "Magsafe cho iPhone 15 Pro Max Silicone",
+  "price_new": 7490000,
+  "price_old": 8590000,
+  "quantity": 10,
+  "description": "Với phiên bản Music của Garmin Forerunner 255, bạn có thể lưu trữ tới 500 bài hát và phát trực tiếp tới tai nghe không dây mà không cần kết nối cùng smartphone. Sản phẩm vẫn sở hữu hệ thống tính năng hỗ trợ tập luyện và chăm sóc sức khỏe đắc lực như phiên bản tiêu chuẩn, đem đến giải pháp tuyệt vời cho những ai yêu thể thao.",
+  "product_image": "op-lung-magsafe-iphone-15-pro-nhua-trong-apple-mt223-thumb1.-650x650.png",
+  "categoryId": {
+    "$oid": "65f4032edb3f6e99065b15c0"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2024-07-03T17:01:06.640Z"
+  },
+  "sold": 54
+},
+{
+  "_id": {
+    "$oid": "65fe2864e46da72e4e616de7"
+  },
+  "name": "iPad Air 6 M2 11 inch 5G",
+  "price_new": 7490000,
+  "price_old": 8590000,
+  "quantity": 10,
+  "description": "Với phiên bản Music của Garmin Forerunner 255, bạn có thể lưu trữ tới 500 bài hát và phát trực tiếp tới tai nghe không dây mà không cần kết nối cùng smartphone. Sản phẩm vẫn sở hữu hệ thống tính năng hỗ trợ tập luyện và chăm sóc sức khỏe đắc lực như phiên bản tiêu chuẩn, đem đến giải pháp tuyệt vời cho những ai yêu thể thao.",
+  "product_image": "ipad-pro-m2-129-inch-sliver-1-650x650 (1).png",
+  "categoryId": {
+    "$oid": "65ef1840cce6ab14801fd9bc"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2024-07-03T17:01:19.721Z"
+  },
+  "sold": 22
+},
+{
+  "_id": {
+    "$oid": "6602fa783c472e5ae96d9e8b"
+  },
+  "name": "Apple Watch Series 9 GPS + Cellular 41mm Viền nhôm",
+  "price_new": 7490000,
+  "price_old": 8590000,
+  "quantity": 10,
+  "description": "12345",
+  "product_image": "https://cdn2.fptshop.com.vn/unsafe/180x0/filters:quality(60)/2023_3_1_638132669986743805_smart-tivi-samsung-uhd-4k-au7700-dd.jpg",
+  "categoryId": {
+    "$oid": "65f4036cdb3f6e99065b15c1"
+  },
+  "createdAt": {
+    "$date": "2024-03-26T16:40:24.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-03T16:52:25.472Z"
+  },
+  "__v": 0,
+  "sold": 105
+},
+{
+  "_id": {
+    "$oid": "665ad44bf22b9571210f00b2"
+  },
+  "name": "Apple Watch SE 2023 GPS",
+  "price_new": 79900001,
+  "price_old": 89900001,
+  "quantity": 101,
+  "description": "Máy lạnh Casper Inverter 1 HP (9000 BTU) TC-09IS35 thuộc dòng máy lạnh thế hệ mới, tích hợp nhiều công nghệ hiện đại. Đây là một mẫu sản phẩm máy lạnh làm lạnh nhanh chóng, có thể tự động làm sạch và đặc biệt là tiết kiệm năng lượng tối ưu.",
+  "product_image": "apple-watch-ultra-lte-49mm-vien-titanium-day-ocean-cam-tb-1-650x650.png",
+  "categoryId": {
+    "$oid": "65ef186ecce6ab14801fd9bd"
+  },
+  "createdAt": {
+    "$date": "2024-06-01T07:56:59.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-03T16:51:27.737Z"
+  },
+  "sold": 22
+},
+{
+  "_id": {
+    "$oid": "665cad5709ce947c7f0dd2c3"
+  },
+  "name": "Apple Watch Series 9 GPS",
+  "price_new": 8990000,
+  "price_old": 9990000,
+  "quantity": 100,
+  "description": "1Máy lạnh Casper Inverter 1 HP (9000 BTU) TC-09IS35 thuộc dòng máy lạnh thế hệ mới, tích hợp nhiều công nghệ hiện đại. Đây là một mẫu sản phẩm máy lạnh làm lạnh nhanh chóng, có thể tự động làm sạch và đặc biệt là tiết kiệm năng lượng tối ưu.",
+  "product_image": "apple-watch-s9-gps-41mm-vien-nhom-day-silicone-hong-tn-1-650x650.png",
+  "categoryId": {
+    "$oid": "65ef186ecce6ab14801fd9bd"
+  },
+  "createdAt": {
+    "$date": "2024-06-02T17:35:19.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-03T16:51:00.672Z"
+  },
+  "sold": 109
+},
+{
+  "_id": {
+    "$oid": "66852588e6cdaacb4d9c1759"
+  },
+  "categoryId": {
+    "$oid": "65ef17fccce6ab14801fd9bb"
+  },
+  "name": "MacBook Air 15 inch M2 Sạc 35W",
+  "price_new": 15490000,
+  "price_old": 16690000,
+  "quantity": "100",
+  "description": "Khám phá sức mạnh tối ưu từ Dell Inspiron 15 N3520, chiếc laptop có cấu hình cực mạnh với bộ vi xử lý Intel Core i5 1235U thế hệ mới và dung lượng RAM lên tới 16GB. Bạn có thể thoải mái xử lý nhiều tác vụ, nâng cao năng suất trong công việc mà không gặp bất kỳ trở ngại nào.",
+  "product_image": "macbook-air-15-inch-m3-2024-vang-650x650.png",
+  "updatedAt": {
+    "$date": "2024-07-03T10:42:40.936Z"
+  },
+  "sold": 78
+},
+{
+  "_id": {
+    "$oid": "6685258be6cdaacb4d9c175a"
+  },
+  "categoryId": {
+    "$oid": "65ef17cecce6ab14801fd9b7"
+  },
+  "name": "iPhone 14 Pro Max 64GB",
+  "price_new": 27390000,
+  "price_old": 27890000,
+  "quantity": 100,
+  "description": "iPhone 14 Pro Max đem đến những trải nghiệm không thể tìm thấy trên mọi thế hệ iPhone trước đó với màu Tím Deep Purple sang trọng, camera 48MP lần đầu xuất hiện, chip A16 Bionic và màn hình “viên thuốc” Dynamic Island linh hoạt, nịnh mắt.",
+  "product_image": "iphone-14-plus-blue-1-2-650x650.png",
+  "updatedAt": {
+    "$date": "2024-07-03T16:44:36.686Z"
+  },
+  "sold": 18
+},
+{
+  "_id": {
+    "$oid": "66852c13fe58f811cd7e75be"
+  },
+  "name": "MacBook Pro 16 inch M3 Max",
+  "price_new": 33990000,
+  "price_old": 34990000,
+  "quantity": 12,
+  "description": "Khám phá sức mạnh tối ưu từ Dell Inspiron 15 N3520, chiếc laptop có cấu hình cực mạnh với bộ vi xử lý Intel Core i5 1235U thế hệ mới và dung lượng RAM lên tới 16GB. Bạn có thể thoải mái xử lý nhiều tác vụ, nâng cao năng suất trong công việc mà không gặp bất kỳ trở ngại nào.",
+  "product_image": "mac-air-15-xam-new-650x650.png",
+  "categoryId": {
+    "$oid": "65ef17fccce6ab14801fd9bb"
+  },
+  "createdAt": {
+    "$date": "2024-07-03T10:46:43.561Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-03T10:46:43.561Z"
+  },
+  "sold": 109
+},
+{
+  "_id": {
+    "$oid": "66852c5afe58f811cd7e75c6"
+  },
+  "name": "iMac 24 inch M3",
+  "price_new": 39990000,
+  "price_old": 59990000,
+  "quantity": 10,
+  "description": "Khám phá sức mạnh tối ưu từ Dell Inspiron 15 N3520, chiếc laptop có cấu hình cực mạnh với bộ vi xử lý Intel Core i5 1235U thế hệ mới và dung lượng RAM lên tới 16GB. Bạn có thể thoải mái xử lý nhiều tác vụ, nâng cao năng suất trong công việc mà không gặp bất kỳ trở ngại nào.",
+  "product_image": "mac-mini-m2-z16k-thumb-650x650.png",
+  "categoryId": {
+    "$oid": "65ef17fccce6ab14801fd9bb"
+  },
+  "createdAt": {
+    "$date": "2024-07-03T10:47:54.179Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-03T10:47:54.179Z"
+  },
+  "__v": 0,
+  "sold": 153
+},
+{
+  "_id": {
+    "$oid": "66855bde4c47fbb7de20f020"
+  },
+  "name": "MacBook Air 13 inch M2 10GPU",
+  "price_new": 29990000,
+  "price_old": 31990000,
+  "quantity": 11,
+  "description": "Khám phá sức mạnh tối ưu từ Dell Inspiron 15 N3520, chiếc laptop có cấu hình cực mạnh với bộ vi xử lý Intel Core i5 1235U thế hệ mới và dung lượng RAM lên tới 16GB. Bạn có thể thoải mái xử lý nhiều tác vụ, nâng cao năng suất trong công việc mà không gặp bất kỳ trở ngại nào.",
+  "product_image": "mac16-topzone-black-650x650.png",
+  "categoryId": {
+    "$oid": "65ef17fccce6ab14801fd9bb"
+  },
+  "createdAt": {
+    "$date": "2024-07-03T14:10:38.048Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-03T14:10:38.048Z"
+  },
+  "sold": 99
+},
+{
+  "_id": {
+    "$oid": "66865a822c8d1887ca63fa4a"
+  },
+  "name": "iPhone Xs Max 64GB",
+  "price_new": 25990000,
+  "price_old": 31990000,
+  "quantity": 5,
+  "description": "Ecovacs Winbot W1 Pro là một trong những sản phẩm tiên tiến trong dòng robot lau kính, mang lại sự tiện lợi và hiệu quả vượt trội. Với những cải tiến công nghệ đáng kể, Winbot W1 Pro giúp bạn tiết kiệm thời gian và công sức trong việc duy trì sạch.",
+  "product_image": "iphone-12-white-1-2-3-650x650.png",
+  "categoryId": {
+    "$oid": "65ef17cecce6ab14801fd9b7"
+  },
+  "createdAt": {
+    "$date": "2024-07-04T08:17:06.051Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-04T08:17:06.051Z"
+  },
+  "sold": 33
+},
+{
+  "_id": {
+    "$oid": "66865ad12c8d1887ca63fa51"
+  },
+  "name": "iPhone 15 128GB",
+  "price_new": 19390000,
+  "price_old": 22990000,
+  "quantity": 10,
+  "description": "Từ dòng iPhone 12 đến iPhone 15 mới nhất, Apple đã quyết định đặt khay SIM ở cạnh trái của thiết bị. Đối với các dòng iPhone cũ hơn, từ iPhone 4 cho đến iPhone 11 Pro Max, khay SIM lại được đặt ở cạnh phải của thiết bị. \n\nTrong suốt nhiều năm, vị trí này đã trở thành một phần quen thuộc của thiết kế iPhone, giúp người dùng dễ dàng nhận biết và thao tác khi cần thay thế hoặc chuyển đổi SIM. Sự thay đổi về vị trí khay SIM trong các mẫu iPhone mới hơn có thể được xem là một phần của nỗ lực không ngừng của Apple nhằm nâng cao trải nghiệm người dùng, tối ưu hóa không gian bên trong thiết bị.",
+  "product_image": "iphone-15-green-1-2-650x650.png",
+  "categoryId": {
+    "$oid": "65ef17cecce6ab14801fd9b7"
+  },
+  "createdAt": {
+    "$date": "2024-07-04T08:18:25.408Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-04T08:18:25.408Z"
+  },
+  "__v": 0,
+  "sold": 111
+},
+{
+  "_id": {
+    "$oid": "66865b012c8d1887ca63fa5b"
+  },
+  "name": "iPhone 15 500GB",
+  "price_new": 19390000,
+  "price_old": 22990000,
+  "quantity": 10,
+  "description": "Từ dòng iPhone 12 đến iPhone 15 mới nhất, Apple đã quyết định đặt khay SIM ở cạnh trái của thiết bị. Đối với các dòng iPhone cũ hơn, từ iPhone 4 cho đến iPhone 11 Pro Max, khay SIM lại được đặt ở cạnh phải của thiết bị. \n\nTrong suốt nhiều năm, vị trí này đã trở thành một phần quen thuộc của thiết kế iPhone, giúp người dùng dễ dàng nhận biết và thao tác khi cần thay thế hoặc chuyển đổi SIM. Sự thay đổi về vị trí khay SIM trong các mẫu iPhone mới hơn có thể được xem là một phần của nỗ lực không ngừng của Apple nhằm nâng cao trải nghiệm người dùng, tối ưu hóa không gian bên trong thiết bị.",
+  "product_image": "iphone-13-green-1-2-3-650x650.png",
+  "categoryId": {
+    "$oid": "65ef17cecce6ab14801fd9b7"
+  },
+  "createdAt": {
+    "$date": "2024-07-04T08:19:13.723Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-04T08:19:13.723Z"
+  },
+  "sold": 55
+},
+{
+  "_id": {
+    "$oid": "66865b2c2c8d1887ca63fa62"
+  },
+  "name": "iPad Pro M2 12.9 inch WiFi",
+  "price_new": 17390000,
+  "price_old": 21990000,
+  "quantity": 10,
+  "description": "Từ dòng iPhone 12 đến iPhone 15 mới nhất, Apple đã quyết định đặt khay SIM ở cạnh trái của thiết bị. Đối với các dòng iPhone cũ hơn, từ iPhone 4 cho đến iPhone 11 Pro Max, khay SIM lại được đặt ở cạnh phải của thiết bị. ",
+  "product_image": "ipad-air-m2-11-inch-wifi-cellular-purple-thumb-650x650.png",
+  "categoryId": {
+    "$oid": "65ef1840cce6ab14801fd9bc"
+  },
+  "createdAt": {
+    "$date": "2024-07-04T08:19:56.020Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-04T08:19:56.020Z"
+  },
+  "sold": 30
+}]

@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "66b023f8120dfd13314e1f01"
+  },
+  "fullname": "Nguyễn Nhật Kha",
+  "phone": "0396415380",
+  "address": "2351g tổ 8 ấp 6",
+  "items": [
+    {
+      "productId": {
+        "$oid": "66865a822c8d1887ca63fa4a"
+      },
+      "name": "iPhone Xs Max 64GB",
+      "price": 25990000,
+      "quantity": 3
+    },
+    {
+      "productId": {
+        "$oid": "65ef1b66cce6ab14801fd9cd"
+      },
+      "name": "MacBook Air 13inch M1",
+      "price": 27990000,
+      "quantity": 2
+    },
+    {
+      "productId": {
+        "$oid": "65fce5e43cf7e1bf67cabcf7"
+      },
+      "name": "Cáp sạc USB-C - Lightning 1m",
+      "price": 290000,
+      "quantity": 1
+    }
+  ],
+  "total": 134240000,
+  "createdAt": {
+    "$date": "2024-08-05T00:59:36.403Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-05T00:59:36.403Z"
+  },
+  "__v": 0
+}]

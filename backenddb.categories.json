@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65ef17cecce6ab14801fd9b7"
+  },
+  "status": "0",
+  "image": "IP_Desktop.png",
+  "createAT": "2024-03-08T08:27:53.883+00:00",
+  "updateAT": "2024-03-08T08:27:53.883+00:00",
+  "name": "iPhone"
+},
+{
+  "_id": {
+    "$oid": "65ef17fccce6ab14801fd9bb"
+  },
+  "status": "0",
+  "image": "Mac_Desktop.png",
+  "createAT": "2024-03-08T08:27:53.883+00:00",
+  "updateAT": "2024-03-08T08:27:53.883+00:00",
+  "name": "Mac"
+},
+{
+  "_id": {
+    "$oid": "65ef1840cce6ab14801fd9bc"
+  },
+  "status": "0",
+  "image": "IPad_Desktop.png",
+  "createAT": "2024-03-08T08:27:53.883+00:00",
+  "updateAT": "2024-03-08T08:27:53.883+00:00",
+  "name": "iPad"
+},
+{
+  "_id": {
+    "$oid": "65ef186ecce6ab14801fd9bd"
+  },
+  "status": "0",
+  "image": "Watch_Desktop.png",
+  "createAT": "2024-03-08T08:27:53.883+00:00",
+  "updateAT": "2024-03-08T08:27:53.883+00:00",
+  "name": "Watch"
+},
+{
+  "_id": {
+    "$oid": "65f402eadb3f6e99065b15bf"
+  },
+  "status": "0",
+  "image": "Amthanh_Desktop.png",
+  "createAT": "",
+  "updateAT": "",
+  "name": "Tai nghe, loa"
+},
+{
+  "_id": {
+    "$oid": "65f4032edb3f6e99065b15c0"
+  },
+  "status": "0",
+  "image": "PK_Desktop.png",
+  "createAT": "",
+  "updateAT": "",
+  "name": "Phụ kiện"
+}]

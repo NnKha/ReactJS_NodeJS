@@ -1,0 +1,24 @@
+.slide-list{
+     width: 1200px;
+     margin: 0 auto 50px;
+     /* padding-bottom: 50px; */
+}
+.filter-cate{
+     margin: 40px;
+}
+
+.filter-cate a{
+     font-size: 15px;
+    line-height: 22px;
+     margin: 0 32px 4px 0;
+     text-decoration: none;
+     color: white;
+    
+}
+.filter-cate a:hover {
+     opacity: 0.8;
+     color: red;
+}
+.filter-cate a:first-child{
+     padding-left: 40px;
+}
